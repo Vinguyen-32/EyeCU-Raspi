@@ -8,7 +8,7 @@
 ## To see the live video feed
 Once it starts, access localhost:5001 to see the live video feed.
 
-You can find the entire instructions for harware and server setup below:
+## You can find the entire instructions for harware and server setup below:
 
 ### Hardware include:
 Raspberry Pi
